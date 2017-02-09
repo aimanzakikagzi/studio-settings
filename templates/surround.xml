@@ -1,0 +1,45 @@
+<templateSet group="surround">
+  <template name="quote" value="&quot;$SELECTION$&quot;" description="surround with &quot;&quot;" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="HTML_TEXT" value="true" />
+      <option name="HTML" value="true" />
+      <option name="XSL_TEXT" value="true" />
+      <option name="XML" value="true" />
+      <option name="XML_TEXT" value="true" />
+      <option name="JSON" value="true" />
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_COMMENT" value="true" />
+      <option name="JAVA_STRING" value="true" />
+      <option name="COMPLETION" value="true" />
+      <option name="GROOVY" value="true" />
+      <option name="GROOVY_EXPRESSION" value="true" />
+      <option name="GROOVY_STATEMENT" value="true" />
+      <option name="GROOVY_DECLARATION" value="true" />
+      <option name="c" value="true" />
+      <option name="OC_DECLARATION_C" value="true" />
+      <option name="OC_STATEMENT_C" value="true" />
+      <option name="OC_EXPRESSION_C" value="true" />
+      <option name="cpp" value="true" />
+      <option name="OC_DECLARATION_CPP" value="true" />
+      <option name="OC_STATEMENT_CPP" value="true" />
+      <option name="OC_EXPRESSION_CPP" value="true" />
+      <option name="OTHER" value="true" />
+    </context>
+  </template>
+  <template name="tcc" value="try{&#10;    $SELECTION$&#10;    $END$ &#10;    }catch (Exception ex) {&#10;    CommonUtilities.handleException(ex, MomGlobal.SEND_TO_CRASHLYTICS, TAG, &quot;exception in $var$() of $class$&quot;);&#10;            }" description="Surround With Try Catch Crashlytics" toReformat="false" toShortenFQNames="true">
+    <variable name="var" expression="methodName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="class" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+      <option name="JAVA_STATEMENT" value="true" />
+      <option name="JAVA_EXPRESSION" value="true" />
+      <option name="JAVA_DECLARATION" value="true" />
+      <option name="JAVA_COMMENT" value="true" />
+      <option name="JAVA_STRING" value="true" />
+      <option name="COMPLETION" value="true" />
+    </context>
+  </template>
+</templateSet>
