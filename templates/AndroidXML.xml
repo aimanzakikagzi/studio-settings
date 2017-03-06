@@ -2,9 +2,7 @@
   <template name="list" value=" &lt;ListView&#10;        android:id=&quot;@+id/lv_$value$&quot;&#10;        android:layout_width=&quot;match_parent&quot;&#10;        android:layout_height=&quot;match_parent&quot;&#10;         /&gt;" description="ListView Template" toReformat="true" toShortenFQNames="true">
     <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
-      <option name="XSL_TEXT" value="true" />
       <option name="XML" value="true" />
-      <option name="XML_TEXT" value="true" />
     </context>
   </template>
 </templateSet>
