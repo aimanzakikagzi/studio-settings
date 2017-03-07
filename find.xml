@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File 'E:\LOCAL_HEALOW_ASTHMA\app\src\main\java\com\ecw\healowasthma\widgets\UnSelectEditText.java'" />
-    <option name="defaultScopeName" value="File 'E:\LOCAL_HEALOW_ASTHMA\app\src\main\java\com\ecw\healowasthma\widgets\UnSelectEditText.java'" />
-    <option name="SEARCH_SCOPE" value="File 'E:\LOCAL_HEALOW_ASTHMA\app\src\main\java\com\ecw\healowasthma\widgets\UnSelectEditText.java'" />
+    <option name="customScope" value="Project 'MyApplication2'" />
+    <option name="defaultScopeName" value="Project 'MyApplication2'" />
+    <option name="SEARCH_SCOPE" value="Project 'MyApplication2'" />
   </component>
 </application>
