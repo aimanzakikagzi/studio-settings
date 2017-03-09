@@ -147,15 +147,15 @@
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
-          <option name="url" value="https://aimanzaki@bitbucket.org/aimanzaki/timelineview.git" />
-          <option name="userName" value="" />
-        </UrlAndUserName>
-        <UrlAndUserName>
-          <option name="url" value="https://github.com/fanrunqi/MaterialLogin.git" />
+          <option name="url" value="https://github.com/vipulasri/Timeline-View.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
         <UrlAndUserName>
           <option name="url" value="https://github.com/googlesamples/android-testing.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://aimanzaki@bitbucket.org/aimanzaki/tus-combis-passenger.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
       </list>
