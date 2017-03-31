@@ -1,13 +1,23 @@
 <application>
   <component name="atlassian-ide-plugin">
+    <option name="JIRAConfigurationData">
+      <JiraConfigurationBean>
+        <option name="pageSize" value="50" />
+      </JiraConfigurationBean>
+    </option>
+    <option name="bambooConfigurationData">
+      <BambooConfigurationBean>
+        <option name="bambooTooltipOption" value="All build failures and first build success" />
+      </BambooConfigurationBean>
+    </option>
     <option name="generalConfigurationData">
       <GeneralConfigurationBean>
         <option name="anonymousEnhancedFeedbackEnabled" value="true" />
         <option name="statsCountersMap">
           <map>
-            <entry key="a" value="0" />
+            <entry key="a" value="3" />
             <entry key="b" value="0" />
-            <entry key="i" value="0" />
+            <entry key="i" value="1" />
             <entry key="r" value="0" />
           </map>
         </option>
