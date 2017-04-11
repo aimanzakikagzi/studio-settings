@@ -3,6 +3,9 @@
     <keyboard-shortcut first-keystroke="alt 6" />
   </action>
   <action id="ActivateTODOToolWindow" />
+  <action id="ChangesView.SetDefault">
+    <keyboard-shortcut first-keystroke="ctrl numpad1" />
+  </action>
   <action id="ConsoleView.ClearAll">
     <keyboard-shortcut first-keystroke="ctrl alt x" />
   </action>
