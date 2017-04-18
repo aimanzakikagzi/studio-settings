@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Project 'MyApplication2'" />
-    <option name="defaultScopeName" value="Project 'MyApplication2'" />
-    <option name="SEARCH_SCOPE" value="Project 'MyApplication2'" />
+    <option name="customScope" value="File '[app] - ...\app\src\main\java\com\ecw\healowkids\asthma\GetHelpNowActivity.java'" />
+    <option name="defaultScopeName" value="File '[app] - ...\app\src\main\java\com\ecw\healowkids\asthma\GetHelpNowActivity.java'" />
+    <option name="SEARCH_SCOPE" value="File '[app] - ...\app\src\main\java\com\ecw\healowkids\asthma\GetHelpNowActivity.java'" />
   </component>
 </application>
