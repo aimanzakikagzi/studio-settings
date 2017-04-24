@@ -1,9 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[app] - ...\app\src\main\java\com\ecw\healowkids\asthma\GetHelpNowActivity.java'" />
-    <option name="defaultScopeName" value="File '[app] - ...\app\src\main\java\com\ecw\healowkids\asthma\GetHelpNowActivity.java'" />
-    <option name="localWholeWordsOnly" value="true" />
-    <option name="LOCAL_WHOLE_WORDS_ONLY" value="true" />
-    <option name="SEARCH_SCOPE" value="File '[app] - ...\app\src\main\java\com\ecw\healowkids\asthma\GetHelpNowActivity.java'" />
+    <option name="customScope" value="File '[app] - ...\app\src\main\java\com\ecw\healowkids\asthma\AllZoneActivity.java'" />
+    <option name="defaultScopeName" value="File '[app] - ...\app\src\main\java\com\ecw\healowkids\asthma\AllZoneActivity.java'" />
+    <option name="SEARCH_SCOPE" value="File '[app] - ...\app\src\main\java\com\ecw\healowkids\asthma\AllZoneActivity.java'" />
   </component>
 </application>
