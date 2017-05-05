@@ -194,9 +194,17 @@
           <option name="url" value="https://github.com/royalharsh/Hospice.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/HubSpot/BidHub-Android.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/n1207n/InstaMaterial.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Aimanzaki" />
+    <option name="cloneParentDir" value="E:\Zaki" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="C:\Users\aimanzakik\Desktop" />
