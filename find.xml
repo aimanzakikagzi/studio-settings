@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[app] - ...\app\src\main\java\com\ecw\healowkids\asthma\util\PreferenceUtils.java'" />
-    <option name="defaultScopeName" value="File '[app] - ...\app\src\main\java\com\ecw\healowkids\asthma\util\PreferenceUtils.java'" />
-    <option name="SEARCH_SCOPE" value="File '[app] - ...\app\src\main\java\com\ecw\healowkids\asthma\util\PreferenceUtils.java'" />
+    <option name="customScope" value="File '[app] - ...\app\src\main\java\com\ecw\healowkids\asthma\AsthmaAddMedicationActivity.java'" />
+    <option name="defaultScopeName" value="File '[app] - ...\app\src\main\java\com\ecw\healowkids\asthma\AsthmaAddMedicationActivity.java'" />
+    <option name="SEARCH_SCOPE" value="File '[app] - ...\app\src\main\java\com\ecw\healowkids\asthma\AsthmaAddMedicationActivity.java'" />
   </component>
 </application>
