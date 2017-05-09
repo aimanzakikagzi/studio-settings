@@ -206,9 +206,13 @@
           <option name="url" value="https://10.100.20.43/svn/PEACH/trunk/Healow/Android/HealowKids/branches/healowKids_1.0.3/" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ParkSangGwon/TedPicker.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Zaki" />
+    <option name="cloneParentDir" value="D:\Android Projects" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="C:\Users\aimanzakik\Desktop" />
