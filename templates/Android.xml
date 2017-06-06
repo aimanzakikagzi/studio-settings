@@ -1,5 +1,6 @@
 <templateSet group="Android">
   <template name="lv" value=" &lt;ListView&#10;        android:id=&quot;@+id/lv_$value$&quot;&#10;        android:layout_width=&quot;match_parent&quot;&#10;        android:layout_height=&quot;match_parent&quot;&#10;         /&gt;" description="ListView Template" toReformat="false" toShortenFQNames="true">
     <variable name="value" expression="" defaultValue="" alwaysStopAt="true" />
+    <context />
   </template>
 </templateSet>
