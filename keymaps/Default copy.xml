@@ -1,24 +1,14 @@
-<keymap version="1" name="Aimanzaki" parent="$default">
+<keymap version="1" name="Default copy" parent="$default">
   <action id="ActivateAndroidMonitorToolWindow">
     <keyboard-shortcut first-keystroke="alt 6" />
   </action>
   <action id="ActivateTODOToolWindow" />
-  <action id="ChangesView.SetDefault">
-    <keyboard-shortcut first-keystroke="ctrl numpad1" />
+  <action id="AndroidConnectDebuggerAction">
+    <keyboard-shortcut first-keystroke="ctrl alt numpad1" />
   </action>
   <action id="Compare.LastVersion">
     <keyboard-shortcut first-keystroke="ctrl alt r" />
   </action>
-  <action id="ConsoleView.ClearAll">
-    <keyboard-shortcut first-keystroke="ctrl alt x" />
-  </action>
-  <action id="InspectCode">
-    <keyboard-shortcut first-keystroke="shift ctrl alt i" />
-  </action>
-  <action id="RevealIn">
-    <keyboard-shortcut first-keystroke="alt e" />
-  </action>
-  <action id="RunInspection" />
   <action id="SwitchApply">
     <keyboard-shortcut first-keystroke="shift alt enter" />
   </action>
@@ -34,5 +24,4 @@
   <action id="SwitchUp">
     <keyboard-shortcut first-keystroke="shift alt up" />
   </action>
-  <action id="ThePlugin.ShowGlobalSettings" />
 </keymap>

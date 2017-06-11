@@ -1,0 +1,11 @@
+<templateSet group="user">
+  <template name="exhan" value=" ExceptionHandler.handle($e$,&quot;Exception in file $file$, class $class$ on $method$&quot;);" description="Exception Handler for Ecw Exceptions." toReformat="false" toShortenFQNames="true">
+    <variable name="e" expression="suggestVariableName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="file" expression="fileName()" defaultValue="" alwaysStopAt="true" />
+    <variable name="class" expression="className()" defaultValue="" alwaysStopAt="true" />
+    <variable name="method" expression="methodName()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>
