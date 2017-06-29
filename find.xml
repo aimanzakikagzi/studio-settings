@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[app] - ...\app\src\main\java\com\ecw\healow\crypto\Cryptographer.java'" />
-    <option name="defaultScopeName" value="File '[app] - ...\app\src\main\java\com\ecw\healow\crypto\Cryptographer.java'" />
-    <option name="SEARCH_SCOPE" value="File '[app] - ...\app\src\main\java\com\ecw\healow\crypto\Cryptographer.java'" />
+    <option name="customScope" value="Directory '[app] - ...\app'" />
+    <option name="defaultScopeName" value="Directory '[app] - ...\app'" />
+    <option name="SEARCH_SCOPE" value="Directory '[app] - ...\app'" />
   </component>
 </application>
