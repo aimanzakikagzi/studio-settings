@@ -3,9 +3,10 @@
     <option name="stats">
       <map>
         <entry key="'Alt+6'" value="9" />
+        <entry key="'Ctrl+Alt+NumPad-1'" value="1" />
         <entry key="'Ctrl+Alt+Z'" value="1" />
         <entry key="'Ctrl+T'" value="1" />
-        <entry key="'Shift+F10'" value="19" />
+        <entry key="'Shift+F10'" value="20" />
         <entry key="'Shift+F9'" value="1" />
       </map>
     </option>
