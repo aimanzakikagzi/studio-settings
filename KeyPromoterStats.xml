@@ -2,18 +2,18 @@
   <component name="KeyPromoterStats">
     <option name="stats">
       <map>
-        <entry key="'Alt+6'" value="37" />
+        <entry key="'Alt+6'" value="38" />
         <entry key="'Alt+9'" value="1" />
         <entry key="'Ctrl+Alt+N'" value="1" />
-        <entry key="'Ctrl+Alt+NumPad-1'" value="6" />
+        <entry key="'Ctrl+Alt+NumPad-1'" value="8" />
         <entry key="'Ctrl+Alt+Z'" value="1" />
         <entry key="'Ctrl+C' or 'Ctrl+Insert'" value="1" />
         <entry key="'Ctrl+F2'" value="1" />
         <entry key="'Ctrl+K'" value="1" />
         <entry key="'Ctrl+T'" value="2" />
         <entry key="'F6'" value="1" />
-        <entry key="'Shift+F10'" value="63" />
-        <entry key="'Shift+F9'" value="2" />
+        <entry key="'Shift+F10'" value="67" />
+        <entry key="'Shift+F9'" value="3" />
       </map>
     </option>
   </component>
