@@ -3,7 +3,7 @@
     <option name="stats">
       <map>
         <entry key="'Alt+1'" value="1" />
-        <entry key="'Alt+6'" value="64" />
+        <entry key="'Alt+6'" value="65" />
         <entry key="'Alt+7'" value="2" />
         <entry key="'Alt+9'" value="2" />
         <entry key="'Alt+Left' or 'Button4 Click'" value="1" />
@@ -18,7 +18,7 @@
         <entry key="'Ctrl+T'" value="4" />
         <entry key="'Ctrl+U'" value="1" />
         <entry key="'F6'" value="1" />
-        <entry key="'Shift+F10'" value="124" />
+        <entry key="'Shift+F10'" value="125" />
         <entry key="'Shift+F9'" value="5" />
       </map>
     </option>
