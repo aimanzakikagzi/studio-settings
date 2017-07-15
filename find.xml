@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '[app] - ...\app'" />
-    <option name="defaultScopeName" value="Directory '[app] - ...\app'" />
-    <option name="SEARCH_SCOPE" value="Directory '[app] - ...\app'" />
+    <option name="customScope" value="Project 'TusCombisDriver'" />
+    <option name="defaultScopeName" value="Project 'TusCombisDriver'" />
+    <option name="SEARCH_SCOPE" value="Project 'TusCombisDriver'" />
   </component>
 </application>
