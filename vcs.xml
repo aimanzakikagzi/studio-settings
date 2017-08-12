@@ -234,9 +234,13 @@
           <option name="url" value="https://github.com/iboen/Capstone-Project.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://aimanzaki@bitbucket.org/aimanzaki/ekuise.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="D:\Zaki\Grasshoper" />
+    <option name="cloneParentDir" value="D:\Zaki" />
   </component>
   <component name="VcsApplicationSettings">
     <option name="PATCH_STORAGE_LOCATION" value="E:\Zaki\Grasshoper patches" />
