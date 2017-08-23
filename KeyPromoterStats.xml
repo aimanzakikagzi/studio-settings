@@ -23,12 +23,13 @@
         <entry key="'Ctrl+Alt+R'" value="1" />
         <entry key="'Ctrl+Alt+Y'" value="8" />
         <entry key="'Ctrl+Alt+Z'" value="4" />
-        <entry key="'Ctrl+C' or 'Ctrl+Insert'" value="2" />
+        <entry key="'Ctrl+C' or 'Ctrl+Insert'" value="3" />
         <entry key="'Ctrl+D'" value="4" />
         <entry key="'Ctrl+F2'" value="7" />
         <entry key="'Ctrl+F9'" value="1" />
         <entry key="'Ctrl+K'" value="18" />
         <entry key="'Ctrl+Shift+D'" value="1" />
+        <entry key="'Ctrl+Shift+F10'" value="1" />
         <entry key="'Ctrl+T'" value="22" />
         <entry key="'Ctrl+U'" value="1" />
         <entry key="'Delete'" value="4" />
@@ -36,7 +37,7 @@
         <entry key="'F6'" value="4" />
         <entry key="'F7'" value="42" />
         <entry key="'F9'" value="16" />
-        <entry key="'Shift+F10'" value="512" />
+        <entry key="'Shift+F10'" value="513" />
         <entry key="'Shift+F9'" value="19" />
       </map>
     </option>
