@@ -21,7 +21,7 @@
         <entry key="'Ctrl+Alt+F4'" value="1" />
         <entry key="'Ctrl+Alt+Left' or 'Button4 Click'" value="6" />
         <entry key="'Ctrl+Alt+N'" value="1" />
-        <entry key="'Ctrl+Alt+NumPad-1'" value="32" />
+        <entry key="'Ctrl+Alt+NumPad-1'" value="33" />
         <entry key="'Ctrl+Alt+R'" value="1" />
         <entry key="'Ctrl+Alt+Y'" value="9" />
         <entry key="'Ctrl+Alt+Z'" value="6" />
@@ -40,7 +40,7 @@
         <entry key="'F6'" value="4" />
         <entry key="'F7'" value="49" />
         <entry key="'F9'" value="16" />
-        <entry key="'Shift+F10'" value="569" />
+        <entry key="'Shift+F10'" value="570" />
         <entry key="'Shift+F7'" value="1" />
         <entry key="'Shift+F9'" value="22" />
       </map>
