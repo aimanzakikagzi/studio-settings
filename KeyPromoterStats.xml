@@ -6,9 +6,9 @@
         <entry key="'Alt+1'" value="9" />
         <entry key="'Alt+4'" value="1" />
         <entry key="'Alt+5'" value="4" />
-        <entry key="'Alt+6'" value="192" />
+        <entry key="'Alt+6'" value="193" />
         <entry key="'Alt+7'" value="2" />
-        <entry key="'Alt+9'" value="23" />
+        <entry key="'Alt+9'" value="24" />
         <entry key="'Alt+F10'" value="1" />
         <entry key="'Alt+F7'" value="1" />
         <entry key="'Alt+Insert'" value="3" />
@@ -38,9 +38,9 @@
         <entry key="'Enter'" value="1" />
         <entry key="'F2'" value="1" />
         <entry key="'F6'" value="4" />
-        <entry key="'F7'" value="45" />
+        <entry key="'F7'" value="49" />
         <entry key="'F9'" value="16" />
-        <entry key="'Shift+F10'" value="567" />
+        <entry key="'Shift+F10'" value="569" />
         <entry key="'Shift+F7'" value="1" />
         <entry key="'Shift+F9'" value="22" />
       </map>
