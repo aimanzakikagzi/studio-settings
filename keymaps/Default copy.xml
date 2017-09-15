@@ -6,6 +6,9 @@
   <action id="AndroidConnectDebuggerAction">
     <keyboard-shortcut first-keystroke="ctrl alt numpad1" />
   </action>
+  <action id="ChangesView.Refresh">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
   <action id="Compare.LastVersion">
     <keyboard-shortcut first-keystroke="ctrl alt r" />
   </action>
