@@ -22,6 +22,7 @@
         <entry key="'Alt+Shift+A'" value="1" />
         <entry key="'Alt+Shift+X' or 'Shift+F10'" value="1" />
         <entry key="'Ctrl+2'" value="8" />
+        <entry key="'Ctrl+Alt+A'" value="1" />
         <entry key="'Ctrl+Alt+F4'" value="1" />
         <entry key="'Ctrl+Alt+Insert'" value="1" />
         <entry key="'Ctrl+Alt+Left' or 'Button4 Click'" value="50" />
@@ -35,7 +36,7 @@
         <entry key="'Ctrl+Alt+Y'" value="23" />
         <entry key="'Ctrl+Alt+Z'" value="54" />
         <entry key="'Ctrl+C' or 'Ctrl+Insert'" value="8" />
-        <entry key="'Ctrl+D'" value="46" />
+        <entry key="'Ctrl+D'" value="47" />
         <entry key="'Ctrl+F2'" value="21" />
         <entry key="'Ctrl+F9'" value="1" />
         <entry key="'Ctrl+K'" value="24" />
