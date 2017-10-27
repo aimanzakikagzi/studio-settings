@@ -246,6 +246,10 @@
           <option name="url" value="https://github.com/boonex/dolphin-android.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://aimanzaki@bitbucket.org/aimanzaki/dummyuiproject.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Aimanzaki" />
