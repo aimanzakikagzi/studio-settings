@@ -3,7 +3,7 @@
     <option name="stats">
       <map>
         <entry key="'Alt+0'" value="5" />
-        <entry key="'Alt+1'" value="19" />
+        <entry key="'Alt+1'" value="20" />
         <entry key="'Alt+4'" value="3" />
         <entry key="'Alt+5'" value="10" />
         <entry key="'Alt+6'" value="424" />
@@ -33,7 +33,7 @@
         <entry key="'Ctrl+Alt+N'" value="1" />
         <entry key="'Ctrl+Alt+NumPad-1'" value="126" />
         <entry key="'Ctrl+Alt+R'" value="16" />
-        <entry key="'Ctrl+Alt+Shift+Backspace'" value="18" />
+        <entry key="'Ctrl+Alt+Shift+Backspace'" value="19" />
         <entry key="'Ctrl+Alt+Shift+Down'" value="1" />
         <entry key="'Ctrl+Alt+Shift+J' or 'Alt+Enter'" value="1" />
         <entry key="'Ctrl+Alt+Shift+S'" value="2" />
@@ -45,7 +45,7 @@
         <entry key="'Ctrl+D'" value="53" />
         <entry key="'Ctrl+F2'" value="29" />
         <entry key="'Ctrl+F9'" value="2" />
-        <entry key="'Ctrl+K'" value="25" />
+        <entry key="'Ctrl+K'" value="26" />
         <entry key="'Ctrl+K' or 'Down' or 'Enter'" value="8" />
         <entry key="'Ctrl+M' or 'Ctrl+E'" value="16" />
         <entry key="'Ctrl+NumPad -' or 'Ctrl+Minus'" value="2" />
@@ -66,7 +66,7 @@
         <entry key="'F8' or 'F9'" value="34" />
         <entry key="'F9'" value="67" />
         <entry key="'Insert'" value="9" />
-        <entry key="'Shift+F10'" value="1350" />
+        <entry key="'Shift+F10'" value="1364" />
         <entry key="'Shift+F3' or 'Ctrl+Shift+L' or 'Up' or 'Shift+Enter'" value="59" />
         <entry key="'Shift+F7'" value="74" />
         <entry key="'Shift+F9'" value="33" />
