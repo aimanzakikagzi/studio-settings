@@ -6,9 +6,9 @@
         <entry key="'Alt+1'" value="22" />
         <entry key="'Alt+4'" value="4" />
         <entry key="'Alt+5'" value="11" />
-        <entry key="'Alt+6'" value="460" />
+        <entry key="'Alt+6'" value="461" />
         <entry key="'Alt+7'" value="3" />
-        <entry key="'Alt+9'" value="220" />
+        <entry key="'Alt+9'" value="221" />
         <entry key="'Alt+Back Quote'" value="1" />
         <entry key="'Alt+Delete'" value="19" />
         <entry key="'Alt+F10'" value="1" />
@@ -34,7 +34,7 @@
         <entry key="'Ctrl+Alt+NumPad-1'" value="131" />
         <entry key="'Ctrl+Alt+R'" value="20" />
         <entry key="'Ctrl+Alt+S'" value="1" />
-        <entry key="'Ctrl+Alt+Shift+Backspace'" value="32" />
+        <entry key="'Ctrl+Alt+Shift+Backspace'" value="33" />
         <entry key="'Ctrl+Alt+Shift+Down'" value="1" />
         <entry key="'Ctrl+Alt+Shift+J' or 'Alt+Enter'" value="1" />
         <entry key="'Ctrl+Alt+Shift+S'" value="2" />
@@ -67,7 +67,7 @@
         <entry key="'F8' or 'F9'" value="34" />
         <entry key="'F9'" value="77" />
         <entry key="'Insert'" value="9" />
-        <entry key="'Shift+F10'" value="1521" />
+        <entry key="'Shift+F10'" value="1523" />
         <entry key="'Shift+F3' or 'Ctrl+Shift+L' or 'Up' or 'Shift+Enter'" value="59" />
         <entry key="'Shift+F7'" value="74" />
         <entry key="'Shift+F9'" value="33" />
