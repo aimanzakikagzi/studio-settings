@@ -32,7 +32,7 @@
         <entry key="'Ctrl+Alt+Insert'" value="3" />
         <entry key="'Ctrl+Alt+Left' or 'Button4 Click'" value="61" />
         <entry key="'Ctrl+Alt+N'" value="1" />
-        <entry key="'Ctrl+Alt+NumPad-1'" value="149" />
+        <entry key="'Ctrl+Alt+NumPad-1'" value="154" />
         <entry key="'Ctrl+Alt+R'" value="23" />
         <entry key="'Ctrl+Alt+S'" value="2" />
         <entry key="'Ctrl+Alt+Shift+Backspace'" value="45" />
@@ -72,11 +72,11 @@
         <entry key="'F8' or 'F9'" value="34" />
         <entry key="'F9'" value="81" />
         <entry key="'Insert'" value="10" />
-        <entry key="'Shift+F10'" value="1768" />
+        <entry key="'Shift+F10'" value="1769" />
         <entry key="'Shift+F3' or 'Ctrl+Shift+L' or 'Up' or 'Shift+Enter'" value="59" />
         <entry key="'Shift+F6'" value="1" />
         <entry key="'Shift+F7'" value="74" />
-        <entry key="'Shift+F9'" value="41" />
+        <entry key="'Shift+F9'" value="45" />
       </map>
     </option>
   </component>
