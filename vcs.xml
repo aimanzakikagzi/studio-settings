@@ -262,6 +262,10 @@
           <option name="url" value="https://github.com/nileshpambhar/MultiPhotoPicker.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/florent37/CameraFragment.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Aimanzaki" />
