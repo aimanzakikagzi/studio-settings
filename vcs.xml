@@ -282,6 +282,10 @@
           <option name="url" value="https://github.com/AppLozic/Applozic-Android-SDK.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/chat-sdk/chat-sdk-android.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Aimanzaki" />
