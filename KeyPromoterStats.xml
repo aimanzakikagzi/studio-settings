@@ -32,7 +32,7 @@
         <entry key="'Ctrl+2'" value="11" />
         <entry key="'Ctrl+Alt+A'" value="1" />
         <entry key="'Ctrl+Alt+Down'" value="1" />
-        <entry key="'Ctrl+Alt+F4'" value="1" />
+        <entry key="'Ctrl+Alt+F4'" value="2" />
         <entry key="'Ctrl+Alt+Insert'" value="3" />
         <entry key="'Ctrl+Alt+Left' or 'Button4 Click'" value="87" />
         <entry key="'Ctrl+Alt+N'" value="1" />
@@ -47,7 +47,7 @@
         <entry key="'Ctrl+Alt+Up'" value="1" />
         <entry key="'Ctrl+Alt+Y'" value="35" />
         <entry key="'Ctrl+Alt+Z'" value="116" />
-        <entry key="'Ctrl+C' or 'Ctrl+Insert'" value="44" />
+        <entry key="'Ctrl+C' or 'Ctrl+Insert'" value="45" />
         <entry key="'Ctrl+D'" value="107" />
         <entry key="'Ctrl+F2'" value="34" />
         <entry key="'Ctrl+F5'" value="4" />
@@ -56,8 +56,8 @@
         <entry key="'Ctrl+K'" value="27" />
         <entry key="'Ctrl+K' or 'Down' or 'Enter'" value="8" />
         <entry key="'Ctrl+M' or 'Ctrl+E'" value="44" />
-        <entry key="'Ctrl+NumPad +' or 'Ctrl+Equals'" value="14" />
-        <entry key="'Ctrl+NumPad -' or 'Ctrl+Minus'" value="4" />
+        <entry key="'Ctrl+NumPad +' or 'Ctrl+Equals'" value="17" />
+        <entry key="'Ctrl+NumPad -' or 'Ctrl+Minus'" value="6" />
         <entry key="'Ctrl+P'" value="1" />
         <entry key="'Ctrl+Shift+D'" value="1" />
         <entry key="'Ctrl+Shift+F'" value="4" />
