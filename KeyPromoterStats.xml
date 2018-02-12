@@ -51,13 +51,14 @@
         <entry key="'Ctrl+D'" value="107" />
         <entry key="'Ctrl+F2'" value="34" />
         <entry key="'Ctrl+F5'" value="4" />
-        <entry key="'Ctrl+F9'" value="30" />
-        <entry key="'Ctrl+H'" value="2" />
+        <entry key="'Ctrl+F9'" value="35" />
+        <entry key="'Ctrl+H'" value="3" />
         <entry key="'Ctrl+K'" value="27" />
         <entry key="'Ctrl+K' or 'Down' or 'Enter'" value="8" />
         <entry key="'Ctrl+M' or 'Ctrl+E'" value="44" />
         <entry key="'Ctrl+NumPad +' or 'Ctrl+Equals'" value="17" />
         <entry key="'Ctrl+NumPad -' or 'Ctrl+Minus'" value="6" />
+        <entry key="'Ctrl+NumPad /' or 'Ctrl+Slash'" value="1" />
         <entry key="'Ctrl+P'" value="1" />
         <entry key="'Ctrl+Shift+D'" value="1" />
         <entry key="'Ctrl+Shift+F'" value="4" />
