@@ -298,6 +298,10 @@
           <option name="url" value="http://10.100.21.60:8443/scm/healow/healowmom-android.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://aimanzaki.kagzi@10.100.21.60:8443/scm/healow/healowmom-android.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="D:\Aimanzaki" />
