@@ -4,14 +4,14 @@
       <map>
         <entry key="'Alt+0'" value="7" />
         <entry key="'Alt+1'" value="44" />
-        <entry key="'Alt+3'" value="2" />
+        <entry key="'Alt+3'" value="4" />
         <entry key="'Alt+4'" value="9" />
         <entry key="'Alt+5'" value="18" />
         <entry key="'Alt+6'" value="678" />
         <entry key="'Alt+7'" value="8" />
-        <entry key="'Alt+9'" value="444" />
+        <entry key="'Alt+9'" value="445" />
         <entry key="'Alt+Back Quote'" value="2" />
-        <entry key="'Alt+Delete'" value="26" />
+        <entry key="'Alt+Delete'" value="27" />
         <entry key="'Alt+F10'" value="1" />
         <entry key="'Alt+F7'" value="9" />
         <entry key="'Alt+F8'" value="3" />
@@ -44,6 +44,7 @@
         <entry key="'Ctrl+Alt+S'" value="6" />
         <entry key="'Ctrl+Alt+Shift+Backspace'" value="86" />
         <entry key="'Ctrl+Alt+Shift+Down'" value="1" />
+        <entry key="'Ctrl+Alt+Shift+F7'" value="1" />
         <entry key="'Ctrl+Alt+Shift+J' or 'Alt+Enter'" value="1" />
         <entry key="'Ctrl+Alt+Shift+S'" value="4" />
         <entry key="'Ctrl+Alt+Shift+Up'" value="1" />
@@ -53,6 +54,7 @@
         <entry key="'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'" value="1" />
         <entry key="'Ctrl+C' or 'Ctrl+Insert'" value="57" />
         <entry key="'Ctrl+D'" value="107" />
+        <entry key="'Ctrl+E'" value="1" />
         <entry key="'Ctrl+F2'" value="34" />
         <entry key="'Ctrl+F5'" value="5" />
         <entry key="'Ctrl+F9'" value="62" />
@@ -76,11 +78,11 @@
         <entry key="'Ctrl+Shift+S' or 'Ctrl+Shift+D'" value="7" />
         <entry key="'Ctrl+T'" value="43" />
         <entry key="'Ctrl+U'" value="1" />
-        <entry key="'Delete'" value="25" />
+        <entry key="'Delete'" value="30" />
         <entry key="'Enter'" value="3" />
         <entry key="'F2'" value="3" />
         <entry key="'F3' or 'Ctrl+L' or 'Down' or 'Enter'" value="165" />
-        <entry key="'F4'" value="7" />
+        <entry key="'F4'" value="11" />
         <entry key="'F6'" value="6" />
         <entry key="'F7'" value="849" />
         <entry key="'F8' or 'F9'" value="34" />
