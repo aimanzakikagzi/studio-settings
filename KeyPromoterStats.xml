@@ -81,7 +81,7 @@
         <entry key="'Delete'" value="30" />
         <entry key="'Enter'" value="3" />
         <entry key="'F2'" value="3" />
-        <entry key="'F3' or 'Ctrl+L' or 'Down' or 'Enter'" value="165" />
+        <entry key="'F3' or 'Ctrl+L' or 'Down' or 'Enter'" value="171" />
         <entry key="'F4'" value="11" />
         <entry key="'F6'" value="6" />
         <entry key="'F7'" value="849" />
@@ -89,7 +89,7 @@
         <entry key="'F9'" value="127" />
         <entry key="'Insert'" value="11" />
         <entry key="'Shift+Escape'" value="1" />
-        <entry key="'Shift+F10'" value="2662" />
+        <entry key="'Shift+F10'" value="2663" />
         <entry key="'Shift+F12'" value="1" />
         <entry key="'Shift+F3' or 'Ctrl+Shift+L' or 'Up' or 'Shift+Enter'" value="61" />
         <entry key="'Shift+F6'" value="1" />
