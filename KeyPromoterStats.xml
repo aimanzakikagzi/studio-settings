@@ -90,12 +90,12 @@
         <entry key="'Insert'" value="11" />
         <entry key="'Left' or 'Button4 Click'" value="1" />
         <entry key="'Shift+Escape'" value="1" />
-        <entry key="'Shift+F10'" value="2803" />
+        <entry key="'Shift+F10'" value="2804" />
         <entry key="'Shift+F12'" value="1" />
         <entry key="'Shift+F3' or 'Ctrl+Shift+L' or 'Up' or 'Shift+Enter'" value="62" />
         <entry key="'Shift+F6'" value="1" />
         <entry key="'Shift+F7'" value="74" />
-        <entry key="'Shift+F9'" value="65" />
+        <entry key="'Shift+F9'" value="67" />
       </map>
     </option>
   </component>
