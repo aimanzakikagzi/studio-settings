@@ -61,7 +61,7 @@
         <entry key="'Ctrl+H'" value="13" />
         <entry key="'Ctrl+K'" value="27" />
         <entry key="'Ctrl+K' or 'Down' or 'Enter'" value="8" />
-        <entry key="'Ctrl+M' or 'Ctrl+E'" value="48" />
+        <entry key="'Ctrl+M' or 'Ctrl+E'" value="50" />
         <entry key="'Ctrl+NumPad +' or 'Ctrl+Equals'" value="17" />
         <entry key="'Ctrl+NumPad -' or 'Ctrl+Minus'" value="6" />
         <entry key="'Ctrl+NumPad /' or 'Ctrl+Slash'" value="1" />
