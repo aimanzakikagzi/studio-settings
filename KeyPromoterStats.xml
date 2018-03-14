@@ -52,7 +52,7 @@
         <entry key="'Ctrl+Alt+Y'" value="48" />
         <entry key="'Ctrl+Alt+Z'" value="144" />
         <entry key="'Ctrl+B' or 'Ctrl+Button1 Click' or 'Button2 Click'" value="1" />
-        <entry key="'Ctrl+C' or 'Ctrl+Insert'" value="64" />
+        <entry key="'Ctrl+C' or 'Ctrl+Insert'" value="65" />
         <entry key="'Ctrl+D'" value="107" />
         <entry key="'Ctrl+E'" value="1" />
         <entry key="'Ctrl+F2'" value="34" />
@@ -86,7 +86,7 @@
         <entry key="'F6'" value="6" />
         <entry key="'F7'" value="849" />
         <entry key="'F8' or 'F9'" value="34" />
-        <entry key="'F9'" value="137" />
+        <entry key="'F9'" value="139" />
         <entry key="'Insert'" value="11" />
         <entry key="'Left' or 'Button4 Click'" value="1" />
         <entry key="'Shift+Escape'" value="1" />
