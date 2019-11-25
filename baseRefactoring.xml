@@ -6,5 +6,6 @@
     <option name="MOVE_PREVIEW_USAGES" value="false" />
     <option name="INTRODUCE_FIELD_VISIBILITY" value="private" />
     <option name="INTRODUCE_CONSTANT_VISIBILITY" value="public" />
+    <option name="INTRODUCE_CONSTANT_MOVE_TO_ANOTHER_CLASS" value="true" />
   </component>
 </application>
